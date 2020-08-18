@@ -15,5 +15,5 @@ website layout by form
   
   
    
- website layout by background
+ simple website
   Live : https://dot-bd.netlify.app/
